@@ -31,7 +31,7 @@
             "name": "Misc"
             }
         , {
-            "name": "Community Uploads"
+            "name": "CommunityUploads"
             }
         ],
     "Wallpapers": [
@@ -2996,7 +2996,7 @@
             "author": "Blessing Aron",
             "url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/typography/HATE.jpg",
             "thumbUrl": "https://raw.githubusercontent.com/Mojojojolabs/artmewallsthumb/master/typography/HATE.jpg",
-            "category": "typography, Community Uploads"
+            "category": "typography,CommunityUploads"
 		}
 	]
 }
