@@ -2081,9 +2081,7 @@
             "thumbUrl": "https://raw.githubusercontent.com/Mojojojolabs/artmewallsthumb/master/photography/watch.jpg",
             "category": "photography"
 		}
-	],
-    "superhero": [
-        {
+        , {
             "name": "10_blackracer",
             "author": "ArtMe",
             "url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/10_blackracer.png",
